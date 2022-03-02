@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Practica4</string>
+    <string name="boton_name">Mostrar mes</string>
+    <string name="edit_name">Ingresa el número del mes</string>
+</resources>
